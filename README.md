@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sayed Nuhan</h1>
-<h3 align="center">An Electrical Engineering Undergrad from Toronto, Canada</h3>
+<h3 align="center">An Electrical Engineering Student from Toronto, Canada</h3>
 
 ---
 
